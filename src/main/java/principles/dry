@@ -1,0 +1,13 @@
+Don't Repeat Yourself
+
+lower technical debt by eliminating redundancies in process and logic whenever possible.
+to improve the maintainability of code during all phases of its lifecycle.
+
+Redundancies in process
+principle seek to ensure that there is only one way to complete a particular process
+Automating the steps wherever possible also reduces redundancy,
+as well as the number of actions required to complete a task.
+
+Redundancies in logic
+principle use abstraction to minimize repetition.
+

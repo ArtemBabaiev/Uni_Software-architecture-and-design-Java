@@ -1,0 +1,6 @@
+You Aren't Gonna Need It
+
+features should only be added when required
+helps avoid spending time on features that may not be used,
+the main features of a program are better developed and less total time is spent on each release
+against the development of extra features and helps avoid feature creep
